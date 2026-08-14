@@ -24,7 +24,13 @@
 
 ---
 
+<div align="center">
+
 ### 👨‍⚕️ About Me
+
+</div>
+
+<div align="center">
 
 <table>
 <tr>
@@ -38,6 +44,7 @@
 <strong>Medical Notes</strong> —— <code>Clinical Summaries · Mnemonics · Mind Maps</code> <br/>
 <strong>Math Foundation</strong> —— <code>Calculus · Linear Algebra · Probability & Statistics</code> <br/>
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/Status-Clinical%20Medicine%20Year%203-008080?style=flat" />
   <img src="https://img.shields.io/badge/Math-Calculus%20%26%20Linear%20Algebra-FF6B6B?style=flat" />
@@ -54,37 +61,61 @@
 - 🧠 **Long-term Goal** —— <code>Bridging Clinical Medicine with AI & Automation</code>
 
 <p>
-  <img src="https://img.shields.io/badge/C++-Competitor-00599C?style=flat" />
-  <img src="https://img.shields.io/badge/LeetCode-100+-FFA116?style=flat" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Competitor-00599C?style=flat" />
+  <img src="https://img.shields.io/badge/LeetCode-100%2B-FFA116?style=flat" />
 </p>
 
 </td>
 </tr>
 </table>
 
-> ✨ Stethoscope in one hand, keyboard in the other — passion doubled.
+> ✨ Attention Is All You Need ✨
+
+</div>
+
 ---
 
+<div align="center">
 
+### 👾 Contribution
 
+</div>
 
+<div align="center">
 
-
-<!-- 贪吃蛇动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JerryRang/JerryRang@output/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JerryRang/JerryRang@output/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/JerryRang/JerryRang@output/profile-snake-contrib/github-contribution-grid-snake.svg" />
 </picture>
 
+</div>
 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" />
+</div>
+
+<div align="center">
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp" />
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp" />
+  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp" />
+  
+</div>
+
+---
+
+<div align="center">
+  <sub>⚕️ hello world. ⚕️</sub>
+</div>
