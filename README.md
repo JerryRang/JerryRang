@@ -1,24 +1,74 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+JerryRang.+A+Medical+student" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=24&color=0078D7&center=true&vCenter=true&pause=1000&lines=Hi%2C+I'm+JerryRang;Medical+Student+%26+ACM+Enthusiast;Keep+Learning%2C+Keep+Growing" alt="Typing SVG" />
+  
   <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently Focus on Agentic Infra.</strong>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+    <strong>Shandong First Medical University · Clinical Medicine (Junior)</strong>
+  </p>
+  
+  <p>
+    <code>⛲ Born 2006.03.06 · Jinan, China</code>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/%F0%9F%93%96%20Study-Medical%20Sciences-brightgreen" />
+    <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Code-ACM%20%26%20C%2B%2B-blue" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Share-Notes%20%26%20Blogs-orange" />
   </p>
 
-  <p>
-    <code>⛲ Born 2006.03.06 · Jinan, China.</code>
-  </p>
-
-
-<div>&nbsp;</div>
-
-<div>
   <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
   <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
   <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-  <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=JerryRang&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <img src="https://komarev.com/ghpvc/?username=JerryRang&label=Views&color=orange&style=flat" alt="访问量统计" />
 </div>
+
+---
+
+### 👨‍⚕️ About Me
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🏥 Medicine & Academics
+
+> 📖 [View Medical Notes →](https://github.com/JerryRang/Medical-Notes)
+
+<p>
+<strong>Medical Notes</strong> —— <code>Clinical Summaries · Mnemonics · Mind Maps</code> <br/>
+<strong>Math Foundation</strong> —— <code>Calculus · Linear Algebra · Probability & Statistics</code> <br/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Status-Clinical%20Medicine%20Year%203-008080?style=flat" />
+  <img src="https://img.shields.io/badge/Math-Calculus%20%26%20Linear%20Algebra-FF6B6B?style=flat" />
+</p>
+
+</td>
+<td valign="top" width="48%">
+
+#### 💻 ACM & Programming
+
+> 🏆 [View Algorithm Solutions →](https://github.com/JerryRang/ACM-Templates)
+
+- 🦀 **Currently Learning** —— <code>Rust · Agentic Infrastructure · Systems Programming</code>
+- 🧠 **Long-term Goal** —— <code>Bridging Clinical Medicine with AI & Automation</code>
+
+<p>
+  <img src="https://img.shields.io/badge/C++-Competitor-00599C?style=flat" />
+  <img src="https://img.shields.io/badge/LeetCode-100+-FFA116?style=flat" />
+</p>
+
+</td>
+</tr>
+</table>
+
+> ✨ Stethoscope in one hand, keyboard in the other — passion doubled.
+---
+
+
+
+
+
 
 <!-- 贪吃蛇动画 -->
 <picture>
@@ -27,13 +77,6 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/JerryRang/JerryRang@output/profile-snake-contrib/github-contribution-grid-snake.svg" />
 </picture>
 
-
-<!-- 3D 贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/JerryRang/JerryRang@output/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/JerryRang/JerryRang@output/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/JerryRang/JerryRang@output/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
